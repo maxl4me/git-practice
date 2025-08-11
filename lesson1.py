@@ -13,7 +13,7 @@ print("Skills:", skills)
 
 # Check data types
 print("Type of name:" , type(name))
-print("Tupe of age:" ,type(age))
+print("Type of age:" ,type(age))
 print("Type of is_qa:", type(is_qa))
 print("Type of skills:",type(skills))
 
